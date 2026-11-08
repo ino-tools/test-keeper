@@ -1,0 +1,8 @@
+{
+  "versionCode": 2026110803,
+  "versionName": "2026.11.08.3",
+  "url": "https://github.com/ino-tools/test-keeper",
+  "sha256": "c5f18d4edef5052fa6936e3f5bc70c987241a1cd92eaaf9e7b1e1b17faea1592",
+  "notes_ja": "おまかせセッション（声で自動で次へ）と、アプリ内の「今すぐ更新」を追加しました。",
+  "notes_en": "Added the auto session (moves on as you speak) and in-app \"Update now\"."
+}
