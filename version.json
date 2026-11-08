@@ -1,8 +1,8 @@
 {
-  "versionCode": 2026110805,
-  "versionName": "2026.11.08.5",
+  "versionCode": 2026110806,
+  "versionName": "2026.11.08.6",
   "url": "https://github.com/ino-tools/test-keeper",
-  "sha256": "8632f2652211a1b784fe5f4253d11c383f8520967dc7144c897c6e3994a343d2",
-  "notes_ja": "トップ画面をシンプルにし、設定を別画面にしました。「アプリを最新版に更新」に名前を変え、セッションで見た秒数を確実に記録するようにしました。",
-  "notes_en": "Simpler main screen with a separate settings page; \"Update the app\"; seconds seen in a session are now recorded reliably."
+  "sha256": "dfb587b290612ec8186fc0fc5a6c7ace51f89fae93095c65e799fb77150c7951",
+  "notes_ja": "設定ボタンを歯車だけにし、更新ボタンの表記を「現在 ver」にしました。",
+  "notes_en": "Settings is now a gear icon only; the update row shows the current ver."
 }
