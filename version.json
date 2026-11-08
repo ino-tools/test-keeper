@@ -1,8 +1,8 @@
 {
-  "versionCode": 2026110806,
-  "versionName": "2026.11.08.6",
+  "versionCode": 2026110807,
+  "versionName": "2026.11.08.7",
   "url": "https://github.com/ino-tools/test-keeper",
-  "sha256": "dfb587b290612ec8186fc0fc5a6c7ace51f89fae93095c65e799fb77150c7951",
-  "notes_ja": "設定ボタンを歯車だけにし、更新ボタンの表記を「現在 ver」にしました。",
-  "notes_en": "Settings is now a gear icon only; the update row shows the current ver."
+  "sha256": "2826a44b521e58521367dfeed08d0523d4fc0545995e32ccb6c76eff4b23c63c",
+  "notes_ja": "アプリごとのメモとフィードバック先リンク、週末の宿題、おまかせ通知、スクショから追加、AI（任意）を追加しました。",
+  "notes_en": "Added per-app notes with a feedback link, weekend homework, smart reminder time, add-from-screenshot, and optional AI."
 }
