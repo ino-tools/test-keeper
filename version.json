@@ -1,8 +1,8 @@
 {
-  "versionCode": 2026110803,
-  "versionName": "2026.11.08.3",
+  "versionCode": 2026110804,
+  "versionName": "2026.11.08.4",
   "url": "https://github.com/ino-tools/test-keeper",
-  "sha256": "c5f18d4edef5052fa6936e3f5bc70c987241a1cd92eaaf9e7b1e1b17faea1592",
-  "notes_ja": "おまかせセッション（声で自動で次へ）と、アプリ内の「今すぐ更新」を追加しました。",
-  "notes_en": "Added the auto session (moves on as you speak) and in-app \"Update now\"."
+  "sha256": "1343a906feaa9cd9ee9c6b3d6467f113f9c318b9b754120c03bbce8764419c26",
+  "notes_ja": "カウントダウンを大きな円のアニメーションにしました。実際に前面に出てから秒数を数えるようにして、「開いた」になりやすくしました。",
+  "notes_en": "New big animated countdown ring. Seconds now count from when the app is actually on screen, so days register reliably."
 }
