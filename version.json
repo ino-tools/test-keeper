@@ -1,8 +1,8 @@
 {
-  "versionCode": 2026112302,
-  "versionName": "2026.11.23.2",
+  "versionCode": 2026112303,
+  "versionName": "2026.11.23.3",
   "url": "https://github.com/ino-tools/test-keeper",
-  "sha256": "38be6d622160b7ebc14ae01bddb69706c979ad39a4d0ec3ef0814b27598cba4d",
-  "notes_ja": "「相互テストの管理」を追加しました。テスト用に入れたアプリを、どの自分のアプリの代わりに入れたかで分けて見られます。テストが終わってアンインストールしたアプリは、一覧から自動で外れます。",
-  "notes_en": "Added Mutual tests: see your test apps grouped by which of your own apps they were installed in exchange for. Finished and uninstalled apps are now removed from the list automatically."
+  "sha256": "4dd8e005b56ef8f1a18a8e0cca2372b465fcef140b1a3889aff5378cbfff1f59",
+  "notes_ja": "テストがおわったアプリを一覧から自動で消す（設定でオフ可）／相互テスト先の自動振り分け",
+  "notes_en": "Finished apps are removed from the list automatically (can be turned off) / auto-assignment of mutual-test partners"
 }
