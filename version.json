@@ -1,8 +1,8 @@
 {
-  "versionCode": 2026110807,
-  "versionName": "2026.11.08.7",
+  "versionCode": 2026112302,
+  "versionName": "2026.11.23.2",
   "url": "https://github.com/ino-tools/test-keeper",
-  "sha256": "2826a44b521e58521367dfeed08d0523d4fc0545995e32ccb6c76eff4b23c63c",
-  "notes_ja": "アプリごとのメモとフィードバック先リンク、週末の宿題、おまかせ通知、スクショから追加、AI（任意）を追加しました。",
-  "notes_en": "Added per-app notes with a feedback link, weekend homework, smart reminder time, add-from-screenshot, and optional AI."
+  "sha256": "38be6d622160b7ebc14ae01bddb69706c979ad39a4d0ec3ef0814b27598cba4d",
+  "notes_ja": "「相互テストの管理」を追加しました。テスト用に入れたアプリを、どの自分のアプリの代わりに入れたかで分けて見られます。テストが終わってアンインストールしたアプリは、一覧から自動で外れます。",
+  "notes_en": "Added Mutual tests: see your test apps grouped by which of your own apps they were installed in exchange for. Finished and uninstalled apps are now removed from the list automatically."
 }
