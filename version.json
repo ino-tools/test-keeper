@@ -1,8 +1,8 @@
 {
-  "versionCode": 2026112305,
-  "versionName": "2026.11.23.5",
+  "versionCode": 2026112401,
+  "versionName": "2026.11.24",
   "url": "https://github.com/ino-tools/test-keeper",
-  "sha256": "69dd44c281ea460887fe7bbba381148296fada378dddd944cc02d15384b7810e",
-  "notes_ja": "相互テストの管理に「感想を送った」「相手が入れた」の印と、管理用のまとめコピー、状態の取り込みを追加",
-  "notes_en": "Mutual tests: feedback / they-installed marks, copy-summary and status import"
+  "sha256": "07b0feaaf82b170216454bfc2f6938b95b7cf2023097b6073cc627f22e52e894",
+  "notes_ja": "相互テストに「削除OK」の印を追加。相手が入れてくれていないアプリを上にまとめて表示します",
+  "notes_en": "Added an \"OK to remove\" mark in Mutual tests; apps whose owners have not installed yours are listed at the top"
 }
