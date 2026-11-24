@@ -1,8 +1,8 @@
 {
-  "versionCode": 2026112403,
-  "versionName": "2026.11.24.3",
+  "versionCode": 2026112404,
+  "versionName": "2026.11.24.4",
   "url": "https://github.com/ino-tools/test-keeper",
-  "sha256": "570da5efb0c0c9fb6264db172930478fccb24354b98337366051b43cb1b7278c",
-  "notes_ja": "おまかせセッション中は画面を暗くしません。声で「次へ」と言うと、タッチなしで次へ進みます",
-  "notes_en": "Auto session keeps the screen on, and saying \"next\" moves on without touching"
+  "sha256": "fff035934729ac4a2c5be6d8691fd907e384be1357228f03a56ddf96ae6c77e8",
+  "notes_ja": "端末から外したアプリが一覧に残っているとき、選んでまとめて一覧から外せます",
+  "notes_en": "Remove apps you uninstalled from the list in one go"
 }
