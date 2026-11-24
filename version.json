@@ -1,8 +1,8 @@
 {
-  "versionCode": 2026112404,
-  "versionName": "2026.11.24.4",
+  "versionCode": 2026112405,
+  "versionName": "2026.11.24.5",
   "url": "https://github.com/ino-tools/test-keeper",
-  "sha256": "fff035934729ac4a2c5be6d8691fd907e384be1357228f03a56ddf96ae6c77e8",
-  "notes_ja": "端末から外したアプリが一覧に残っているとき、選んでまとめて一覧から外せます",
-  "notes_en": "Remove apps you uninstalled from the list in one go"
+  "sha256": "3e501b70b4852bcd2f519cd03ec767b7b3822925d383779cb570a8fc81b31146",
+  "notes_ja": "相互テストの管理に「整合チェック」と「要インストール台帳」を追加。入れ忘れ・ずれを一覧で確認でき、Claudeに渡す手順も画面に出ます",
+  "notes_en": "Mutual tests: consistency check and must-install ledger, plus on-screen steps for reconciling with Claude"
 }
