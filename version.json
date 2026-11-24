@@ -1,8 +1,8 @@
 {
-  "versionCode": 2026112401,
-  "versionName": "2026.11.24",
+  "versionCode": 2026112402,
+  "versionName": "2026.11.24.2",
   "url": "https://github.com/ino-tools/test-keeper",
-  "sha256": "07b0feaaf82b170216454bfc2f6938b95b7cf2023097b6073cc627f22e52e894",
-  "notes_ja": "相互テストに「削除OK」の印を追加。相手が入れてくれていないアプリを上にまとめて表示します",
-  "notes_en": "Added an \"OK to remove\" mark in Mutual tests; apps whose owners have not installed yours are listed at the top"
+  "sha256": "4f1400cf599dfad8346aedd7d4afb65ca26eadf75bf25b1b72a91264b158bbd0",
+  "notes_ja": "削除OKを、明らかに入れていないアプリだけに絞りました",
+  "notes_en": "Narrowed \"OK to remove\" to apps clearly not reciprocated"
 }
