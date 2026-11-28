@@ -1,8 +1,8 @@
 {
-  "versionCode": 2026112801,
-  "versionName": "2026.11.28",
+  "versionCode": 2026112802,
+  "versionName": "2026.11.28.2",
   "url": "https://github.com/ino-tools/test-keeper",
-  "sha256": "96bf755dee2d0f98280af240c3c779be158d4e5da30f7d00a5b24843484dd300",
-  "notes_ja": "おまかせセッションの画面上のパネルを小さくし、指でドラッグして動かせるようにしました",
-  "notes_en": "Auto-session overlay panel is smaller and can be dragged"
+  "sha256": "31d38b53f79e056f796eecca02fabdc9168f6776b1a7b3f25eda661479501679",
+  "notes_ja": "相互テストの画面に「感想を書く順番」を追加（投稿先リンクがあるアプリが先）。「もどる」ボタンを大きくし、端末の戻る操作でも前の画面へ戻れるようにしました",
+  "notes_en": "Mutual tests: new 'order to write feedback' list (apps with a feedback link first). Bigger Back button; the system back gesture now returns to the previous screen"
 }
